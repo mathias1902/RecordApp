@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885434843545",
+    "firebase_url": "https://recordapp-44668.firebaseio.com",
+    "project_id": "recordapp-44668",
+    "storage_bucket": "recordapp-44668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885434843545:android:cee3676f7f116dca",
+        "android_client_info": {
+          "package_name": "com.example.opet.recordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885434843545-qc4k03nojnhc3ccq76se6vlfe81vicrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opet.recordapp",
+            "certificate_hash": "07a93b3efed67e15bba84325aa962a4f8457d3df"
+          }
+        },
+        {
+          "client_id": "885434843545-528qkkvb5pi17jq6786lur9bsejphho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZlfGbf3E-LQMY0ksg2tqkVvbys5mpI4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885434843545-528qkkvb5pi17jq6786lur9bsejphho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
